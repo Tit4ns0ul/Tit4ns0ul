@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=BF73F7&random=false&width=435&lines=Hi+%2C+i+am+Kamal+Singh+Bisht+.;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=BF73F7&random=false&width=435&lines=Hi+%2C+i+am+Kamal+Singh+Bisht+.;Cyber+Security+Enthusiast+.+.)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Kamal</h1>
 <h3 align="center">A passionate Cyber Security student from India</h3>
