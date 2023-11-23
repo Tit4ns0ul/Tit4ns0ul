@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github/Tit4ns0ul](https://github/Tit4ns0ul)
 
-- 💬 Ask me about **penetrating, python , cyber security**
+- 💬 Ask me about **Penetrating,Python , Cyber Security**
 
 - 📫 How to reach me **workwithkamal@outlook.com**
 
